@@ -1,0 +1,6 @@
+projectKey=Maven_Jenkins:Maven_First_Demo_Project
+serverUrl=http://localhost:9000
+serverVersion=8.9.8.54436
+dashboardUrl=http://localhost:9000/dashboard?id=Maven_Jenkins%3AMaven_First_Demo_Project
+ceTaskId=AX__F75k_y6OMl9FKjwZ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX__F75k_y6OMl9FKjwZ
